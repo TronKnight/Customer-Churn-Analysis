@@ -1,0 +1,25 @@
+Cluster,Feature,Female,Male,No,Yes,DSL,Fiber optic,Month-to-month,One year,Two year
+0,gender,49.28,50.72,,,,,,,
+1,gender,50.05,49.95,,,,,,,
+2,gender,48.55,51.45,,,,,,,
+3,gender,50.35,49.65,,,,,,,
+0,Dependents,,,56.71,43.29,,,,,
+1,Dependents,,,66.77,33.23,,,,,
+2,Dependents,,,67.87,32.13,,,,,
+3,Dependents,,,80.14,19.86,,,,,
+0,PhoneService,,,25.85,74.15,,,,,
+1,PhoneService,,,1.15,98.85,,,,,
+2,PhoneService,,,22.03,77.97,,,,,
+3,PhoneService,,,0.61,99.39,,,,,
+0,MultipleLines,,,59.21,40.79,,,,,
+1,MultipleLines,,,56.79,43.21,,,,,
+2,MultipleLines,,,57.83,42.17,,,,,
+3,MultipleLines,,,57.88,42.12,,,,,
+0,InternetService,,,,,55.64,44.36,,,
+1,InternetService,,,,,55.12,44.88,,,
+2,InternetService,,,,,55.93,44.07,,,
+3,InternetService,,,,,57.08,42.92,,,
+0,Contract,,,,,,,53.76,22.18,24.06
+1,Contract,,,,,,,54.96,20.85,24.19
+2,Contract,,,,,,,51.58,23.99,24.43
+3,Contract,,,,,,,55.67,19.39,24.94
